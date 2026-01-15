@@ -1,8 +1,10 @@
-<img width="1136" height="832" alt="image-20260115141608081" src="https://github.com/user-attachments/assets/ab5e0df4-9c99-43f2-a650-470017225d0f" />
+<img width="1136" height="832" alt="image-20260115141608081" src="https://github.com/user-attachments/assets/48a30d7d-9f37-4750-b7ee-af0e84f6ed3a" />
 
-<img width="1821" height="847" alt="image-20260115160638203" src="https://github.com/user-attachments/assets/45c20a4c-77e3-4235-bc2b-21bd30899483" />
+<img width="1821" height="847" alt="image-20260115160638203" src="https://github.com/user-attachments/assets/7f2af4a1-ea02-4c61-951b-c096beccc759" />
 
-<img width="1417" height="688" alt="image-20260115141739816" src="https://github.com/user-attachments/assets/e94b4038-0a59-40e0-aafc-adf2af96ab0f" />
+<img width="1800" height="833" alt="image-20260115141907184" src="https://github.com/user-attachments/assets/b434cd25-7f13-4fc5-b666-bdb5a11b2ec8" />
+
+<img width="1417" height="688" alt="image-20260115141739816" src="https://github.com/user-attachments/assets/71f0c5c0-4ac5-4961-959b-13a608eb4e1e" />
 
 2026.01.15 3个曲线图添加动态Y轴范围计算，使曲线图看起来更加明显。
 
