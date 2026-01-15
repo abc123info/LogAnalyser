@@ -1,10 +1,13 @@
+大家好，我是ABC_123。最近我在家里集中精力，把多年前写的 Web 日志分析工具重新梳理并完善一下。该工具从 2017 年开始编写，期间一直断断续续地修改和新增功能，最近终于抽出时间系统性地更新优化，整理出了一个相对完整可用的版本，分享给大家使用。
+
 <img width="1136" height="832" alt="image-20260115141608081" src="https://github.com/user-attachments/assets/48a30d7d-9f37-4750-b7ee-af0e84f6ed3a" />
 
 <img width="1821" height="847" alt="image-20260115160638203" src="https://github.com/user-attachments/assets/7f2af4a1-ea02-4c61-951b-c096beccc759" />
 
+<img width="1417" height="688" alt="image-20260115141739816" src="https://github.com/user-attachments/assets/71f0c5c0-4ac5-4961-959b-13a608eb4e1e" />
+
 <img width="1800" height="833" alt="image-20260115141907184" src="https://github.com/user-attachments/assets/b434cd25-7f13-4fc5-b666-bdb5a11b2ec8" />
 
-<img width="1417" height="688" alt="image-20260115141739816" src="https://github.com/user-attachments/assets/71f0c5c0-4ac5-4961-959b-13a608eb4e1e" />
 
 2026.01.15 3个曲线图添加动态Y轴范围计算，使曲线图看起来更加明显。
 
