@@ -1,6 +1,6 @@
 大家好，我是ABC_123。最近我在家里集中精力，把多年前写的 Web 日志分析工具重新梳理并完善一下。该工具从 2017 年开始编写，期间一直断断续续地修改和新增功能，最近终于抽出时间系统性地更新优化，整理出了一个相对完整可用的版本，分享给大家使用。
 
-<img width="1136" height="832" alt="image" src="https://github.com/user-attachments/assets/0e2673f0-df1e-4d88-bfec-1388ec7a9086" />
+<img width="1136" height="832" alt="image" src="https://github.com/user-attachments/assets/f8a8aefb-8716-415b-80bc-128c99db5575" />
 
   
   
