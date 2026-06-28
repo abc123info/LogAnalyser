@@ -5,6 +5,12 @@
 
 ![d222](https://github.com/user-attachments/assets/e4eab024-090b-43d1-97e6-9110ad02e0ae)
 
+<img width="1136" height="832" alt="image-20260628084929392" src="https://github.com/user-attachments/assets/c08544f0-e034-41d2-9254-0c3505e0120e" />
+
+<img width="1136" height="832" alt="image-20260628084727638" src="https://github.com/user-attachments/assets/a74fcf7e-2573-4c29-9a9b-a5c0e60fd861" />
+
+<img width="1136" height="832" alt="image-20260628085155059" src="https://github.com/user-attachments/assets/22c1352b-e2e5-44be-8815-77a5c18abccc" />
+
   
 以下是日志分析工具生成的报告：
 
